@@ -11,7 +11,7 @@
   <a href="https://github.com/Kryklin/operation-bloodmoon-releases/releases">
     <img src="https://img.shields.io/github/downloads/Kryklin/operation-bloodmoon-releases/total?style=for-the-badge&color=drab&label=TOTAL_OPERATIVES" alt="Total Downloads"/>
   </a>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE_COMBAT-red?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/STATUS-DEVELOPMENT-red?style=for-the-badge" alt="Status"/>
 </p>
 
 ---
@@ -74,3 +74,4 @@ Your survival depends on your loyalties. Choose wisely.
 <p align="center">
   <small>© 2025 SkyTitan. All Rights Reserved. Authorization Code: OB-RELEASE-KYLA</small>
 </p>
+
