@@ -1,7 +1,7 @@
 # OPERATION BLOODMOON
 
 <p align="center">
-  <img src="img/logo-tran.png" alt="Operation Bloodmoon Logo" width="300"/>
+  <img src="img/logo.png" alt="Operation Bloodmoon Logo" width="300"/>
 </p>
 
 <p align="center">
