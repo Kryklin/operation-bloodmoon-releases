@@ -18,10 +18,10 @@
 
 ## 📂 MISSION BRIEFING
 
-**Location:** London Exclusion Zone
+**Location:** Oakhaven Exclusion Zone
 **Designation:** Hybrid Desktop Application (Electron / Angular / Phaser 3)
 
-**Operation Bloodmoon** is a tactical top-down shooter set in a post-collapse London. With the government fractured and the streets ruled by warlords, you must choose your allegiance and fight for control of the ruins.
+**Operation Bloodmoon** is a tactical top-down shooter set in a post-collapse Oakhaven. With the government fractured and the streets ruled by warlords, you must choose your allegiance and fight for control of the ruins.
 
 This repository serves as the **Public Deployment Hub** for field operatives. Secure updates and patches are distributed from this encrypted channel.
 
